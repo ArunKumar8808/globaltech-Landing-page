@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Book Antiqua";
+}
+
+.repaire_logo {
+    width: 110px;
+    height: 70px;
+}
+
+#homepage {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.repaire-home-container {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/438/690/443/technology-digital-art-wallpaper-preview.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.repaire-heading {
+    color: white;
+    font-size: 65px;
+    font-weight: bold;
+    font-family: "Book Antiqua";
+}
+
+.repaire-caption {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.repaire-button {
+    color: white;
+    background-color: #1dc249;
+    width: 130px;
+    font-family: "Book Antiqua";
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+div button:hover {
+    background: transparent;
+    color: red;
+    background-color: white;
+}
+
+.about-section-heading {
+    font-size: 30px;
+}
+
+.about-section {
+    background-color: #f9fbfe;
+}
+
+.about-logo {
+    height: 100%;
+    width: 100%;
+}
+
+.points {
+    margin-left: 10px;
+}
+
+.right-mark {
+    background-color: green;
+    color: white;
+}
+
+.paragraph {
+    font-weight: bold;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.mother-bord {
+    height: 200px;
+}
+
+.motherbord-menu-section {
+    background-color: white;
+}
+
+.Motherboard-service-item-card {
+    border-radius: 16px;
+}
+
+.span {
+    color: green;
+}
+
+.service-item-image {
+    border-radius: 16px;
+}
+
+
+
+.Backup-item-image {
+    border-radius: 16px;
+}
+
+.display-item-card {
+    border-radius: 16px;
+}
+
+.servise-card-title {
+    color: #323f4b;
+    font-family: "Book Antiqua";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.service-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.Softwareupdate-item-card {
+    border-radius: 16px;
+}
+
+.Removal-item-card {
+    border-radius: 16px;
+}
+
+.workers {
+    height: 30%;
+    width: 50%;
+}
+
+.member-heading {
+    font-size: 25px;
+}
+
+.button {
+    background-color: #33ccff;
+    height: 40px;
+    border-radius: 8px;
+}
+
+h1:hover {
+    color: #ff1a8c;
+}
+
+p:hover {
+    color: #085a96;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.welcome {
+    margin-top: 30px;
+}
+
+.repair-logo {
+    width: 140px;
+}
+
+.icon {
+    color: #3333ff;
+    font-size: 35px;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    padding-top: 30px;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+}
+
+.bg-container {
+    background-color: #9f9fdf;
+}
+
+img:hover {
+    transform: transparent(-10PX);
+}
+
+footer {
+    color: #d96c00;
+    font-weight: bold;
+    font-family: "Book Antiqua";
+    height: 3%;
+    bottom: -34px;
+}
+
+.welcome {
+    margin-top: 30px;
+}
